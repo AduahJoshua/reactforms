@@ -1,0 +1,28 @@
+body{
+    background-color: teal;
+    
+    align-items: center;
+    box-sizing: border-box;
+}
+    
+    
+.formbox{
+    margin-top: 30px;
+    
+}
+.buttonicon{
+    background-color: hotpink;
+    color: white;
+    border: none;
+    height: 20px;
+    width: 100px;
+    border-radius: 2px;
+}
+.buttonicon:hover{
+    background-color: rgb(81, 2, 41);
+    color: rgb(255, 208, 0);
+    border: none;
+    height: 20px;
+    width: 100px;
+    border-radius: 2px;
+}
